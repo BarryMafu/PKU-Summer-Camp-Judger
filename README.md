@@ -1,4 +1,4 @@
-# Summer Camp Judger
+# PKU Summer Camp Judger
 
 - Creater: BarryMafu
 - Time: 25.June.27th
@@ -19,6 +19,7 @@ Summer Camp 2024/
 judge.py
 README.md
 ```
+
 2. 然后填入`time_memory_limit.txt`，里面放置每一道题目限定的时间和内存限制。单位是秒和MB（请提前换算）。值得注意的是，由于个人电脑上会有一些额外的时间开销，所以请您最好在题目的时间要求上**加上1s**或者**乘以2**，空间要求不变。结构是
 ```
 <problem_code> <time_limit(s)> <memory_limit(MB)>
